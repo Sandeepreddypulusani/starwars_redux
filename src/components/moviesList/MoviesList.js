@@ -47,7 +47,7 @@ const MoviesList = ({ filmsData }) => {
       </Form.Control>
 
       <h4>
-        <span className="h4_title">Latest Movie / Year </span>
+        <span className="h4_title">Latest Movie/Year </span>
         {latestMovie}
       </h4>
     </>
